@@ -16,5 +16,10 @@
 
 * **6pm-8pm:** Epicodus React with APIs reading
 
+### February 13th, 2022
+
+* **7am-8am:** Various documention readings on React with API
+
+
 
 
