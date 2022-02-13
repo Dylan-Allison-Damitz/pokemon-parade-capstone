@@ -14,4 +14,7 @@
 
 * **4pm-5:30pm:** YouTube videos on Firebase and APIs with React - Research on "PokéAPI"
 
+* **6pm-8pm:** Epicodus React with APIs reading
+
+
 
