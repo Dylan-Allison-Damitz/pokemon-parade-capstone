@@ -10,3 +10,8 @@
 
 * **9:30am-11:15am:** Continuing to study Firebase via Epicodus materials
 
+### February 12th, 2022
+
+* **4pm-5:30pm:** YouTube videos on Firebase and APIs with React - Research on "PokéAPI"
+
+
